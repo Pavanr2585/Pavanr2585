@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Pavanrr25
+- 👋 Hi, I’m @Pavan Rathod
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing Bachelor of Engineering
